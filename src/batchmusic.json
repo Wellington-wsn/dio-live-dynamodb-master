@@ -1,0 +1,64 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Wasting Love"},
+                  "AlbumTitle": {"S": "Fear of the Dark Live"},
+                  "SongYear": {"S": "1992"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Weekend Warrior"},
+                  "AlbumTitle": {"S": "Fear of the Dark"},
+                  "SongYear": {"S": "1992"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Fear of the Dark"},
+                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
+                  "SongYear": {"S": "1992"}
+                }
+            }
+        },
+        {
+           "PutRequest": {
+              "Item": {
+                "Artist": {"S": "HammerFall"},
+                "SongTitle": {"S": "Hearts On Fire"},
+                "AlbumTitle": {"S": "Crimson Thunder"},
+                "SongYear": {"S": "2002"}
+              }
+           }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Ensiferum"},
+                  "SongTitle": {"S": "In My Sword I Trust"},
+                  "AlbumTitle": {"S": "Unsung Heroes"},
+                  "SongYear": {"S": "2012"}
+                }
+            }
+        },
+        {
+              "PutRequest": {
+                  "Item": {
+                    "Artist": {"S": "Turisas"},
+                    "SongTitle": {"S": "Stand Up and Fight"},
+                    "AlbumTitle": {"S": "Stand Up and Fight"},
+                    "SongYear": {"S": "2011"}
+                  }
+              }
+        }
+     ]
+}
