@@ -1,5 +1,5 @@
 # dio-live-dynamodb
-Repositório aula 'Boas práticascom DynamoDB'  sobre o Amazon DynamoDB.
+Repositório aula 'Boas práticas com DynamoDB'  sobre o Amazon DynamoDB.
 
 ### Serviço utilizado
   - Amazon DynamoDB
